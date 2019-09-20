@@ -1,0 +1,5 @@
+c:\users\internee.fiza\documents\visual studio 2012\Projects\Asp Registration Form\Asp Registration Form\bin\Asp Registration Form.dll
+c:\users\internee.fiza\documents\visual studio 2012\Projects\Asp Registration Form\Asp Registration Form\bin\Asp Registration Form.pdb
+c:\users\internee.fiza\documents\visual studio 2012\Projects\Asp Registration Form\Asp Registration Form\obj\Debug\Asp Registration Form.csprojResolveAssemblyReference.cache
+c:\users\internee.fiza\documents\visual studio 2012\Projects\Asp Registration Form\Asp Registration Form\obj\Debug\Asp Registration Form.dll
+c:\users\internee.fiza\documents\visual studio 2012\Projects\Asp Registration Form\Asp Registration Form\obj\Debug\Asp Registration Form.pdb
